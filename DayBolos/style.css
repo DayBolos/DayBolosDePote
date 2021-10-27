@@ -1,0 +1,75 @@
+/*Alteracoes Gerais*/
+.logo {
+  width: 80px;
+}
+
+.top {
+  margin-top: 2.5em;
+}
+
+.margin-left {
+  margin-left: 5em;
+}
+
+.container {
+  margin-top: 5rem;
+}
+
+.github {
+  width: 32px;
+}
+
+.p-justify {
+  text-align: justify;
+}
+
+.logo-footer {
+  width: 150px;
+}
+
+.branco {
+  color: #ffffff;
+}
+
+.preto {
+  color: #000000;
+}
+
+.rosa1 {
+  color: #a00045;
+}
+
+.menu {
+  background: #ff549e;
+}
+
+.my-bg {
+  background: #ffd0f0;
+}
+
+.rodape {
+  background: #a00045;
+}
+
+/*Pag Musicas*/
+#card {
+  max-width: 100vh;
+}
+
+.container-music {
+  margin: 1.5rem;
+}
+
+.linkWhatsapp{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: #3fa53f;
+}
+
+.linkWhatsapp:hover{
+    color: #3fa53f;
+}
+
+.DayBolos{
+  font-family: 'Irish Grover', cursive;
+}
